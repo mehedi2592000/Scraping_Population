@@ -1,0 +1,14 @@
+D:\Innovasot\Scraping Population\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.deps.json
+D:\Innovasot\Scraping Population\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+D:\Innovasot\Scraping Population\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfoInputs.cache
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfo.cs
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.dll
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\refint\Data_Access_Layer.dll
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.pdb
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\ref\Data_Access_Layer.dll
+D:\Innovasot\Scraping Population\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.runtimeconfig.json
+D:\Innovasot\Scraping Population\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.genruntimeconfig.cache
